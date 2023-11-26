@@ -1,5 +1,6 @@
 import './App.css';
 
+/*============================== exercise 1 =================================*/
 function RenderNumbersAndExpressions() {
     /*
     TODO: create a variable to display the numbers and the relation b/t weeks and days
@@ -14,6 +15,7 @@ function RenderNumbersAndExpressions() {
     )
 }
 
+/*============================== exercise 2 =================================*/
 function RenderTexts() {
     /*
     TODO: create a variable to display string 'Victoria'
@@ -29,6 +31,7 @@ function RenderTexts() {
     )
 }
 
+/*============================== exercise 3 =================================*/
 function RenderExternalSources() {
     /*
    TODO: replace IMAGE_NAME with the proper image path using 'import' at top of the file
@@ -45,6 +48,7 @@ function RenderExternalSources() {
     )
 }
 
+/*============================== exercise 4 =================================*/
 function RenderObjects() {
     /*
     TODO:
@@ -72,7 +76,7 @@ function RenderObjects() {
         </div>
     );
 }
-
+/*============================== main =================================*/
 function App() {
 
     return (
